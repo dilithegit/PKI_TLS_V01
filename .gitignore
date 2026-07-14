@@ -1,0 +1,6 @@
+# Secrets, generated material and caches
+certs/
+.ca_pass
+__pycache__/
+*.pyc
+.idea/
